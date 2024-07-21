@@ -86,5 +86,5 @@
 
 ###
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting%F0%9F%96%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Wanna+Hire%F0%9F%96%90;I+am+open+to+work+!!!" alt="Typing SVG" />
 </div>
