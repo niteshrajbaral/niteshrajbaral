@@ -24,8 +24,9 @@
 ###
 ###
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=niteshrajbaral&label=Profile%20views&color=0e75b6&style=flat" alt="niteshrajbaral" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshrajbaral" alt="niteshrajbaral" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshrajbaral&label=Profile%20views&color=0e75b6&style=flat" alt="niteshrajbaral" /> </p>
+<h3 align="center">🏆 Trophies 🏆</h3>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niteshrajbaral&theme=onedark" alt="niteshrajbaral" /></p>
 
 
 <br>
@@ -50,7 +51,7 @@
 
 ###
 
-<h3 align="center">🚲 Stats 🚲</h3>
+<h1 align="center">📊 Stats 📊</h1>
 
 ###
 <br clear="both">
@@ -71,7 +72,9 @@
 
 ###
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">✨Socials🌏</h1>
+
+###
 <p align="center">
 <a href="https://linkedin.com/in/nitesh-raj-baral-2175b022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-raj-baral-2175b022b" height="30" width="40" /></a>
   &nbsp; &nbsp; &nbsp;
