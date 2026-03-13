@@ -9,22 +9,21 @@
 
 <br clear="both"> 
 <div align="left">
+
   <br>
-- 🔭 I’m currently working on Brain Tumor Segmentation
+- I’m currently learning AI ML
   <br>
-- 🌱 I’m currently learning AI ML
+- You can visit my profolio website to see my projects
   <br>
-- 👨‍💻 You can visit my profolio website to see my projects
+- How to reach me nbaral640@gmail.com
   <br>
-- 📫 How to reach me nbaral640@gmail.com
-  <br>
-- ⚡ Fun fact: There are over 700 programming languages in the world
+- Fun fact: There are over 700 programming languages in the world
 </div>
 
 ###
 ###
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshrajbaral&label=Profile%20views&color=0e75b6&style=flat" alt="niteshrajbaral" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshrajbaral&label=Profile%20views&color=0e75b6&style=flat" alt="niteshrajbaral" /> </p> -->
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niteshrajbaral&theme=onedark" alt="niteshrajbaral" /></p>
 
