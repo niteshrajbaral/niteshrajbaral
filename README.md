@@ -24,8 +24,8 @@
 ###
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshrajbaral&label=Profile%20views&color=0e75b6&style=flat" alt="niteshrajbaral" /> </p> -->
-<h3 align="center">🏆 Trophies 🏆</h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niteshrajbaral&theme=onedark" alt="niteshrajbaral" /></p>
+<!-- <h3 align="center">🏆 Trophies 🏆</h3> -->
+<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niteshrajbaral&theme=onedark" alt="niteshrajbaral" /></p> -->
 
 
 <br>
