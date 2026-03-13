@@ -1,21 +1,20 @@
 
 <h1 align="center">Hi 👋,
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1&center=true&vCenter=true&width=435&height=52&lines=I'm+Nitesh+Raj+Baral" alt="Typing SVG" />
+I'm Nitesh Raj Baral
 </h1>
-<h3 align="center">A passionate full stack developer from Nepal</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 
 <br clear="both"> 
 <div align="left">
 
   <br>
-- I’m currently learning AI ML
+- I'm comfortable with React projects
   <br>
-- You can visit my profolio website to see my projects
+- Experience in React and ML projects
   <br>
-- How to reach me nbaral640@gmail.com
+- Reach me: nbaral640@gmail.com
   <br>
 - Fun fact: There are over 700 programming languages in the world
 </div>
@@ -23,15 +22,12 @@
 ###
 ###
 <br>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshrajbaral&label=Profile%20views&color=0e75b6&style=flat" alt="niteshrajbaral" /> </p> -->
-<!-- <h3 align="center">🏆 Trophies 🏆</h3> -->
-<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niteshrajbaral&theme=onedark" alt="niteshrajbaral" /></p> -->
 
 
 <br>
 
 ###
-<h3 align="center" >🛠 &nbsp;&nbsp;Languages and Tools&nbsp;&nbsp;🛠</h3>
+<h3 align="center" >🛠 &nbsp;&nbsp;Learned Tools and Languages &nbsp;&nbsp;🛠</h3>
 <br clear="both">
 <div align="center">
   <a href="https://skillicons.dev">
@@ -44,13 +40,14 @@
 
 <br clear="both">
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%90%8DMy+Contributions%F0%9F%90%8D" alt="Typing SVG" />
+Contributions x Snake 
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%90%8DMy+Contributions%F0%9F%90%8D" alt="Typing SVG" /> -->
 </h1>
 <img src="https://raw.githubusercontent.com/niteshrajbaral/niteshrajbaral/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h1 align="center">📊 Stats 📊</h1>
+<!-- <h1 align="center">📊 Stats 📊</h1>
 
 ###
 <br clear="both">
@@ -67,7 +64,7 @@
 </div>
 
 ###
-<br>
+<br> -->
 
 ###
 
@@ -79,14 +76,18 @@
   &nbsp; &nbsp; &nbsp;
 <a href="https://fb.com/niteshraj.baral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niteshraj.baral" height="30" width="40" /></a>
   &nbsp; &nbsp; &nbsp;
-<a href="https://instagram.com/niteshrajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niteshrajb" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/niteshrajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niteshrajb" height="30" width="40" /></a>
   &nbsp; &nbsp; &nbsp;
-<a href="https://www.youtube.com/@nrb640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding world" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nrb640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding world" height="30" width="40" /></a> -->
 </p>
 
 <br>
 
 ###
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Wanna+Hire%F0%9F%96%90;I+am+open+to+work+!!!" alt="Typing SVG" />
+<h3>
+<div align="center" >
+
+Connect | Collaborate | Contribute
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Wanna+Hire%F0%9F%96%90;I+am+open+to+work+!!!" alt="Typing SVG" /> -->
 </div>
+</h3>
